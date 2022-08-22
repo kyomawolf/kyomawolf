@@ -2,7 +2,7 @@
 ### Student at 42 Heilbronn - Core Curriculum
 
 Hey there! I'm a programmer since 2019. My first Contact with code was Rust, but the first language I learned is C.
-I'm currently studying at 42 Heilbronn and I publish here some of the projects I do during my curriculum. But I have personal projects as well, they are (or will be) also published here. My latest project is miniRT, a raytracer written in C, from the core curriculum. As it is a project done in a team of two, it's published on mhahnFr's Github [here](https://github.com/mhahnFr/42cursus-miniRT "miniRT").
+I'm currently studying at 42 Heilbronn and I publish here some of the projects I do during my curriculum. But I have personal projects as well, they are (or will be) also published here. My latest project is webserv, a Webserver written in C++, from the core curriculum. As it is a project done in a team of two, it's published on williamollio's Github [here](https://github.com/williamollio/webserv "webserv").
 
 [**Linked_in**](https://www.linkedin.com/in/jascha-kasper-4a94b5221/, "Jascha Kasper")
 
