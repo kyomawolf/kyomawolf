@@ -1,9 +1,9 @@
 ## Kyomawolf - Jascha - Werwolf
-### Student at 42 Heilbronn - Core Curriculum
+### Alumn at 42 Heilbronn - Junior Linux Developer
 
 Hey there! I'm a programmer since 2019. My first Contact with code was Rust, but the first language I learned is C.
-I'm currently studying at 42 Heilbronn and I publish here some of the projects I do during my curriculum. But I have personal projects as well, they are (or will be) also published here. My latest project is webserv, a Webserver written in C++, from the core curriculum. As it is a project done in a team of three, it's published on williamollio's Github [here](https://github.com/williamollio/webserv "webserv").
-I'm currently doing an internship at [i2m](https://www.i-2-m.com/ "i2m a mann + hummel company").
+I'm currently studying at 42 Heilbronn and I publish here some of the projects I do during my curriculum. But I have personal projects as well, they are (or will be) also published here. My latest project is this small [1D-Game](https://github.com/kyomawolf/LedGame "LedGame | kyomawolf") running on a esp32 with a LED-Chain as canvas.
+I'm currently working at [Igel Technologies](https://www.igel.com/ "Next-Gen Edge OS, Endpoint Security | IGEL Technologies") as Junior Linux Developer.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyomawolf&layout=compact" width="350" height="140">
 
