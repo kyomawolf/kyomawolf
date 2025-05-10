@@ -1,9 +1,9 @@
 ## Kyomawolf - Jascha - Werwolf
-### Alumn at 42 Heilbronn - Junior Linux Developer
+### Alumn at 42 Heilbronn - Linux Developer
 
 Hey there! I'm a programmer since 2019. My first Contact with code was Rust, but the first language I learned is C.
 I studied at 42 Heilbronn and I published here some of the projects I did during my curriculum. But I have personal projects as well, they are (or will be) also published here. My latest project is this [full size keyboard](https://github.com/kyomawolf/kyomaboard "Kyomaboard | kyomawolf") with a completely custom PCB-Design and fancy keycaps (pictures soon, after DHPC24).
-I'm currently working at [Igel Technologies](https://www.igel.com/ "Next-Gen Edge OS, Endpoint Security | IGEL Technologies") as Junior Linux Developer.
+I'm currently working at [Igel Technologies](https://www.igel.com/ "Next-Gen Edge OS, Endpoint Security | IGEL Technologies") as Linux Developer.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyomawolf&layout=compact" width="350" height="140">
 
